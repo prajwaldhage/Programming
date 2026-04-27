@@ -11,5 +11,5 @@ void main()
     printf("Enter Number 2: ");
     scanf("%d", &number2);
     product = number1 * number2;
-    printf("The sum of %d and %d is %d", number1, number2, product);
+    printf("The product of %d and %d is %d", number1, number2, product);
 }
