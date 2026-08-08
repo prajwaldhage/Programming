@@ -6,8 +6,7 @@ Welcome to my personal knowledge base! This repository is a collection of everyt
 
 ## 📌 Roadmap
 
-- Python
-- C Programming
+- C Programming (In Progress)
 - Data Structures & Algorithms
 - Git & GitHub Basics
 - Web Development (HTML/CSS/JS)
@@ -17,12 +16,7 @@ Welcome to my personal knowledge base! This repository is a collection of everyt
 ## Repository Structure
 ```
 Programming/
-├──C-Programming/       # Python-specific learning
-│   ├── Basics/         # Syntax, loops, functions
-│   ├── DSA/            # Algorithms practice
-│   ├── Mini-Projects/  # Mini-projects
-│   └── Mega-Projects/  # Mega-projects
-├── Python/             # Python-specific learning
+├── C-Programming/      # C-specific learning
 │   ├── Basics/         # Syntax, loops, functions
 │   ├── DSA/            # Algorithms practice
 │   ├── Mini-Projects/  # Mini-projects

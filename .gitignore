@@ -6,3 +6,15 @@ __pycache__/
 .venv/
 venv/
 env/
+
+# C
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dylib
+build/
+dist/
